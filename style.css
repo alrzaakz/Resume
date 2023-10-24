@@ -1,24 +1,24 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 12px;
+    font-size: 20px;
     max-width: 1080px;
     margin: auto;
 }
 
 h1 {
-    font-size: 3em;
-    letter-spacing: .6em;
+    font-size: 3em;/*Alireza Akbarzadeh*/
+    letter-spacing: 0.6em;
     padding-top: 1em;
     padding-bottom: 1em;
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.5em; /* personal information-contact-honors&awards-skills-selected courses-education-language-academic experience-interestswork experience*/
     padding-bottom: 1em;
 }
 
 h3 {
-    font-size: 1em;
+    font-size: 1em; /* Manufacturing Engg, Project on Solid-ansys-abaqus-intern-laser operator-worker */
     padding-bottom: 1em;
 }
 
@@ -34,15 +34,15 @@ header {
 }
 
 section {
-    margin: auto 1em 4em 2em;
+    margin: auto 0.01em 4em 2em;
 }
 
 i {
-    margin-right: .5em;
+    margin-right: 0.5em;
 }
 
 p {
-    margin: .2em auto;
+    margin: 0.2em auto;
 }
 
 hr {
@@ -52,7 +52,7 @@ hr {
 }
 
 h1, h2, h3 {
-    font-weight: 100;
+    font-weight: 450;/*all topics britel*/
     margin-bottom: 0;
 }
 
